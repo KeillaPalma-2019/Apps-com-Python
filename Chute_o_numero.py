@@ -44,9 +44,6 @@ class ChuteONumero:
             print('Favor digitar apenas números!')
             self.Iniciar()
 
-    def LerValoresDaTela(self):
-        self.evento, self.valores = self.janela.Read()
-
     def PedirValorAleatorio(self):
         self.valor_do_chute = input('Chute um número: ')
 
