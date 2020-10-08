@@ -1,2 +1,2 @@
-# Apps-com-Python
-Projetos criando Apps com Python
+# Joguinhos-com-Python
+Projetos de estudos criando joguinhos/apps com Python
